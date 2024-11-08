@@ -26,11 +26,6 @@ Publications
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-       
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
