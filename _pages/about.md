@@ -30,9 +30,14 @@ Main Publications
 ### [5. Revisiting graph-based recommender systems from the perspective of variational auto-encoder](https://dl.acm.org/doi/full/10.1145/3573385)
 **Yi Zhang**, Yiwen Zhang, Dengcheng Yan, Shuiguang Deng, Yun Yang. ACM Transactions on Information Systems (TOIS'23) [[Code](https://github.com/BlueGhostYi/ID-GRec/blob/main/models/CVGA.py)]
 
-Main Publications
+Other Publications
 ======
 
+### [1. SimCEN: Simple Contrast-enhanced Network for CTR Prediction](https://dl.acm.org/doi/abs/10.1145/3664647.3681203)
+Honghao Li, Lei Sang, **Yi Zhang**, Yiwen Zhang. Proceedings of the 32nd ACM International Conference on Multimedia (MM'24)
+
+### [1. AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction](https://dl.acm.org/doi/full/10.1145/3681785)
+Lei Sang, Honghao Li, Yiwen Zhang, **Yi Zhang**, Yun Yang. ACM Transactions on Information Systems (TOIS'24)
 
 
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
