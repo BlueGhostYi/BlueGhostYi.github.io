@@ -1,10 +1,11 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 
 I am currently a second-year Ph.D. student in the School of Computer Science and Technology at Anhui University, under the supervision of Professor Yiwen Zhang. Additionally, I am undertaking a one-year visiting research program at the University of Queensland, under the guidance of Professor Hongzhi Yin, from November 2024 to November 2025. I received my Bachelor's and Master's degrees in Computer Science and Technology from Anhui University in 2020 and 2023, respectively. My research interests primarily focus on graph recommendation systems, social recommendation, and generative recommendation:
 
