@@ -13,7 +13,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 2. **Social Recommendation**: Social recommendation is an important branch of graph recommender systems. It builds upon interaction relationships by introducing social networks to additionally consider the social connections between users. Social recommender systems leverage the principles of social homophily and social influence to enhance collaborative filtering.
 3.  **Generative recommendatio**:Generative recommender system utilizes generative models to produce personalized recommendation. Unlike traditional recommendation methods that rely heavily on user-item interaction data, generative recommendation models aim to learn the underlying data distribution and generate new content or recommendations directly.
    
-Publications
+Main Publications
 ======
 ### [1. Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3626772.3657738)
 **Yi Zhang**, Lei Sang, Yiwen Zhang. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'24)
@@ -21,6 +21,14 @@ Publications
 ### [2. Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3701230)
 **Yi Zhang**, Yiwen Zhang, Lei Sang, Victor S Sheng. ACM Transactions on Information Systems (TOIS'24)
 
+### [3. Dual Variational Graph Reconstruction Learning for Social Recommendation](https://ieeexplore.ieee.org/abstract/document/10506644)
+**Yi Zhang**, Yiwen Zhang, Yuchuan Zhao, Shuiguang Deng, Yun Yang. IEEE Transactions on Knowledge and Data Engineering (TKDE'24)
+
+### [4. NIE-GCN: Neighbor Item Embedding-Aware Graph Convolutional Network for Recommendation](https://ieeexplore.ieee.org/abstract/document/10413999)
+**Yi Zhang**, Yiwen Zhang, Dengcheng Yan, Qiang He, Yun Yang. IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC'24)
+
+### [5. Revisiting graph-based recommender systems from the perspective of variational auto-encoder](https://dl.acm.org/doi/full/10.1145/3573385)
+**Yi Zhang**, Yiwen Zhang, Dengcheng Yan, Shuiguang Deng, Yun Yang. ACM Transactions on Information Systems (TOIS'23)
 
 Site-wide configuration
 ------
