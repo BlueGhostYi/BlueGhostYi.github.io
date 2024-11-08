@@ -15,23 +15,8 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
    
 Publications
 ======
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+### [1. Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3626772.3657738)
+**Yi Zhang**, Lei Sang, Yiwen Zhang. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'24)
 
 Site-wide configuration
 ------
