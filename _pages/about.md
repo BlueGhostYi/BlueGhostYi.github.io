@@ -18,6 +18,10 @@ Publications
 ### [1. Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3626772.3657738)
 **Yi Zhang**, Lei Sang, Yiwen Zhang. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'24)
 
+### [2. Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3701230)
+**Yi Zhang**, Yiwen Zhang, Lei Sang, Victor S Sheng. ACM Transactions on Information Systems (TOIS'24)
+
+
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
