@@ -11,7 +11,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 1. **Graph Recommendation**: Graph recommender systems leverage graph structures to enhance recommendation quality. Users, items, and other entities are represented as nodes, while their relationships, such as interactions, similarities, or social connections, form edges in the graph. Graph neural networks (such as graph convolutional networks) are widely applied in graph recommendation to obtain high-quality embeddings for users and items.
 2. **Social Recommendation**: Social recommendation is an important branch of graph recommender systems. It builds upon interaction relationships by introducing social networks to additionally consider the social connections between users. Social recommender systems leverage the principles of social homophily and social influence to enhance collaborative filtering.
-3.  **Generative recommendation**:Generative recommender system utilizes generative models to produce personalized recommendation. Unlike traditional recommendation methods that rely heavily on user-item interaction data, generative recommendation models aim to learn the underlying data distribution and generate new content or recommendations directly.
+3.  **Generative recommendation**: Generative recommender system utilizes generative models to produce personalized recommendation. Unlike traditional recommendation methods that rely heavily on user-item interaction data, generative recommendation models aim to learn the underlying data distribution and generate new content or recommendations directly.
    
 Main Publications
 ======
@@ -45,9 +45,9 @@ Lei Sang, Yu Zhang, **Yi Zhang**, Honghao Li, Yiwen Zhang. Expert Systems with A
 ### [4. Bi-Directional Transfer Graph Contrastive Learning for Social Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417424022139)
 Lei Sang, Mingyuan Liu, **Yi Zhang**, Yuee Huang, Yiwen Zhang. IEEE Transactions on Big Data (TBD'24)
 
-### [5. CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction](https://www.sciencedirect.com/science/article/pii/S0957417424022139)
+### [5. CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3688571)
 Honghao Li, Lei Sang, **Yi Zhang**, Xuyun Zhang, Yiwen Zhang. ACM Transactions on Information Systems (TOIS'24)
 
-### [6. Multi-view denoising contrastive learning for bundle recommendation](https://www.sciencedirect.com/science/article/pii/S0957417424022139)
+### [6. Multi-view denoising contrastive learning for bundle recommendation](https://link.springer.com/article/10.1007/s10489-024-05825-z)
 Lei Sang, Yang Hu, **Yi Zhang**, Yiwen Zhang. Applied Intelligence.
 
