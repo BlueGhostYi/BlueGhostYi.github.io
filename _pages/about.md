@@ -39,7 +39,7 @@ Honghao Li, Lei Sang, **Yi Zhang**, Yiwen Zhang. Proceedings of the 32nd ACM Int
 ### [2. AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction](https://dl.acm.org/doi/full/10.1145/3681785)
 Lei Sang, Honghao Li, Yiwen Zhang, **Yi Zhang**, Yun Yang. ACM Transactions on Information Systems (TOIS'24)
 
-### [3. Towards similar alignment and unique uniformity in collaborative filtering](https://www.sciencedirect.com/science/article/pii/S0957417424022139)
+### [3. Towards Similar Alignment and Unique Uniformity in Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0957417424022139)
 Lei Sang, Yu Zhang, **Yi Zhang**, Honghao Li, Yiwen Zhang. Expert Systems with Applications (ESWA'24)
 
 ### [4. Bi-Directional Transfer Graph Contrastive Learning for Social Recommendation](https://www.sciencedirect.com/science/article/pii/S0957417424022139)
@@ -48,6 +48,19 @@ Lei Sang, Mingyuan Liu, **Yi Zhang**, Yuee Huang, Yiwen Zhang. IEEE Transactions
 ### [5. CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction](https://dl.acm.org/doi/10.1145/3688571)
 Honghao Li, Lei Sang, **Yi Zhang**, Xuyun Zhang, Yiwen Zhang. ACM Transactions on Information Systems (TOIS'24)
 
-### [6. Multi-view denoising contrastive learning for bundle recommendation](https://link.springer.com/article/10.1007/s10489-024-05825-z)
+### [6. Multi-view Denoising Contrastive Learning for Bundle Recommendation](https://link.springer.com/article/10.1007/s10489-024-05825-z)
 Lei Sang, Yang Hu, **Yi Zhang**, Yiwen Zhang. Applied Intelligence.
 
+Services
+======
+I have been invited to serve as reviewer for IEEE TKDE, IEEE TSMC, IEEE TII, ACM TOIS, ACM TKDD, and Neural Network journals.
+
+Awards and Honors
+======
+🏆China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2024)
+
+🏆First-Class Academic Scholarship (Awarded consecutively from 2020 to 2024, Anhui University)
+
+🏆Outstanding Graduate of Higher Education Institutions in Anhui Province, China (Anhui Provincial Department of Education, 2023)
+
+🏆National Second Prize in the CCF China Software Service Innovation Contest (China Computer Federation, 2022)
