@@ -12,6 +12,10 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 1. **Graph Recommendation**: Graph recommender systems leverage graph structures to enhance recommendation quality. Users, items, and other entities are represented as nodes, while their relationships, such as interactions, similarities, or social connections, form edges in the graph. Graph neural networks (such as graph convolutional networks) are widely applied in graph recommendation to obtain high-quality embeddings for users and items.
 2. **Social Recommendation**: Social recommendation is an important branch of graph recommender systems. It builds upon interaction relationships by introducing social networks to additionally consider the social connections between users. Social recommender systems leverage the principles of social homophily and social influence to enhance collaborative filtering.
 3.  **Generative recommendation**: Generative recommender system utilizes generative models to produce personalized recommendation. Unlike traditional recommendation methods that rely heavily on user-item interaction data, generative recommendation models aim to learn the underlying data distribution and generate new content or recommendations directly.
+
+<span style="color: red;">News</span>
+======
+   We have integrated a graph recommendation framework, [**ID-GRec**](https://github.com/BlueGhostYi/ID-GRec), which has now been released on GitHub. ID-GRec is built on the classic graph recommendation method LightGCN and draws on several related frameworks. Currently, ID-GRec includes over 20 graph recommendation models, all of which have been published in various flagship conferences and journals (e.g., SIGIR, WWW, KDD, TOIS, and TKDE).
    
 Main Publications
 ======
