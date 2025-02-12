@@ -98,33 +98,39 @@ Lei Sang, Yu Wang, **Yi Zhang**, Yiwen Zhang, Xindong Wu. IEEE Transactions on K
 1. [**Federated Contrastive Learning for Cross-Domain Recommendation**](https://ieeexplore.ieee.org/document/10842506).
 Qingren Wang, Yuchuan Zhao, **Yi Zhang**, Yiwen Zhang, Shuiguang Deng, Yun Yang. IEEE Transactions on Services Computing (TSC'25)
 
-1. [**Dual-domain Collaborative Denoising for Social Recommendation**](https://arxiv.org/pdf/2405.04942)
+1. [**Dual-domain Collaborative Denoising for Social Recommendation**](https://arxiv.org/pdf/2405.04942).
 Wenjie Chen, **Yi Zhang**, Honghao Li, Lei Sang, Yiwen Zhang. IEEE Transactions on Computational Social Systems (TCSS'25)
 
-1. [**Revisiting Alignment and Uniformity for Recommendation via Discrimination and Reliable Assessment**](https://ieeexplore.ieee.org/abstract/document/10833758)
+1. [**Revisiting Alignment and Uniformity for Recommendation via Discrimination and Reliable Assessment**](https://ieeexplore.ieee.org/abstract/document/10833758).
 Xinzhe Jiang, Lei Sang, Shun Lian, **Yi Zhang**, Yiwen Zhang. IEEE Transactions on Consumer Electronics (TCE'25)
 
-1. [**SimCEN: Simple Contrast-enhanced Network for CTR Prediction**](https://dl.acm.org/doi/abs/10.1145/3664647.3681203)
+1. [**SimCEN: Simple Contrast-enhanced Network for CTR Prediction**](https://dl.acm.org/doi/abs/10.1145/3664647.3681203).
 Honghao Li, Lei Sang, **Yi Zhang**, Yiwen Zhang. Proceedings of the 32nd ACM International Conference on Multimedia (ACM MM'24)
 
-1. [**AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction**](https://dl.acm.org/doi/full/10.1145/3681785)
+1. [**AdaGIN: Adaptive Graph Interaction Network for Click-Through Rate Prediction**](https://dl.acm.org/doi/full/10.1145/3681785).
 Lei Sang, Honghao Li, Yiwen Zhang, **Yi Zhang**, Yun Yang. ACM Transactions on Information Systems (TOIS'24)
 
-1. [**Towards Similar Alignment and Unique Uniformity in Collaborative Filtering**](https://www.sciencedirect.com/science/article/pii/S0957417424022139)
+1. [**Towards Similar Alignment and Unique Uniformity in Collaborative Filtering**](https://www.sciencedirect.com/science/article/pii/S0957417424022139).
 Lei Sang, Yu Zhang, **Yi Zhang**, Honghao Li, Yiwen Zhang. Expert Systems with Applications (ESWA'24)
 
-1. [**Bi-Directional Transfer Graph Contrastive Learning for Social Recommendation**](https://www.sciencedirect.com/science/article/pii/S0957417424022139)
+1. [**Bi-Directional Transfer Graph Contrastive Learning for Social Recommendation**](https://www.sciencedirect.com/science/article/pii/S0957417424022139).
 Lei Sang, Mingyuan Liu, **Yi Zhang**, Yuee Huang, Yiwen Zhang. IEEE Transactions on Big Data (TBD'24)
 
-1. [**CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction**](https://dl.acm.org/doi/10.1145/3688571)
+1. [**CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction**](https://dl.acm.org/doi/10.1145/3688571).
 Honghao Li, Lei Sang, **Yi Zhang**, Xuyun Zhang, Yiwen Zhang. ACM Transactions on Information Systems (TOIS'24)
 
-1. [**Multi-view Denoising Contrastive Learning for Bundle Recommendation**](https://link.springer.com/article/10.1007/s10489-024-05825-z)
+1. [**Multi-view Denoising Contrastive Learning for Bundle Recommendation**](https://link.springer.com/article/10.1007/s10489-024-05825-z).
 Lei Sang, Yang Hu, **Yi Zhang**, Yiwen Zhang. Applied Intelligence, 2024.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+🏆China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2024)
+
+🏆First-Class Academic Scholarship (Awarded consecutively from 2020 to 2024, Anhui University)
+
+🏆Outstanding Graduate of Higher Education Institutions in Anhui Province, China (Anhui Provincial Department of Education, 2023)
+
+🏆National Second Prize in the CCF China Software Service Innovation Contest (China Computer Federation, 2022)
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
