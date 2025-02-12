@@ -25,7 +25,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ACM the Web conference 2025 (WWW'25) on data augmentation for recommendation.
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by the ACM Web conference 2025 (WWW'25) on data augmentation for recommendation.
 - *2024.12*: &nbsp;🎉🎉 We have integrated a graph recommendation framework, [**ID-GRec**](https://github.com/BlueGhostYi/ID-GRec), which has now been released on GitHub. ID-GRec is built on the classic graph recommendation method LightGCN and draws on several related frameworks. Currently, ID-GRec includes over 20 graph recommendation models, all of which have been published in various flagship conferences and journals (e.g., SIGIR, WWW, KDD, TOIS, and TKDE).
 
 # 📝 Publications 
@@ -132,5 +132,5 @@ Lei Sang, Yang Hu, **Yi Zhang**, Yiwen Zhang. Applied Intelligence, 2024.
 
 🏆National Second Prize in the CCF China Software Service Innovation Contest (China Computer Federation, 2022)
 
-#
+---
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=34taVYypIaftBuBTVtFkhL1Jql8xXlrWROpcbKDStLA'></script>
