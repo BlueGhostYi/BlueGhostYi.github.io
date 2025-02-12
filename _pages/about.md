@@ -35,10 +35,8 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 [MixRec: Individual and Collective Mixing Empowers Data Augmentation for Recommender Systems](https://arxiv.org/abs/2501.13579)
 
-**Yi Zhang**, Yiwen Zhang. The Web Conference 2025 (**WWW'25, CCF A**)
-
-[[Code](https://github.com/BlueGhostYi/ID-GRec/)] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Yi Zhang**, Yiwen Zhang. 
+- The Web Conference 2025 (**WWW'25, CCF A**) [[Code](https://github.com/BlueGhostYi/ID-GRec/)]
 </div>
 </div>
 
