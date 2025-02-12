@@ -60,6 +60,38 @@ ACM Transactions on Information Systems (**TOIS'24, CCF A**) [[Code](https://git
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2024</div><img src='images/DVGRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual Variational Graph Reconstruction Learning for Social Recommendation](https://ieeexplore.ieee.org/abstract/document/10506644)
+
+**Yi Zhang**, Yiwen Zhang, Yuchuan Zhao, Shuiguang Deng, Yun Yang. 
+IEEE Transactions on Knowledge and Data Engineering (**TKDE'24, CCF A**) [[Code](https://github.com/BlueGhostYi/DVGRL)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSMC 2024</div><img src='images/NIE-GCN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NIE-GCN: Neighbor Item Embedding-Aware Graph Convolutional Network for Recommendation](https://ieeexplore.ieee.org/abstract/document/10413999)
+
+**Yi Zhang**, Yiwen Zhang, Yuchuan Zhao, Shuiguang Deng, Yun Yang. 
+**Yi Zhang**, Yiwen Zhang, Dengcheng Yan, Qiang He, Yun Yang. 
+IEEE Transactions on Systems, Man, and Cybernetics: Systems (**TSMC'24, CCF B**) [[Code](https://github.com/BlueGhostYi/NIE-GCN)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2023</div><img src='images/CVGA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Revisiting graph-based recommender systems from the perspective of variational auto-encoder](https://dl.acm.org/doi/full/10.1145/3573385)
+
+**Yi Zhang**, Yiwen Zhang, Yuchuan Zhao, Shuiguang Deng, Yun Yang. 
+**Yi Zhang**, Yiwen Zhang, Dengcheng Yan, Shuiguang Deng, Yun Yang. 
+ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://github.com/BlueGhostYi/ID-GRec/blob/main/models/CVGA.py)]
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
