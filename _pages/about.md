@@ -36,7 +36,27 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 [MixRec: Individual and Collective Mixing Empowers Data Augmentation for Recommender Systems](https://arxiv.org/abs/2501.13579)
 
 **Yi Zhang**, Yiwen Zhang. 
-- The Web Conference 2025 (**WWW'25, CCF A**) [[Code](https://github.com/BlueGhostYi/ID-GRec/)]
+Proceedings of the ACM Web Conference 2025 (**WWW'25, CCF A**) [[Code](https://github.com/BlueGhostYi/ID-GRec/)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/BIGCF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3626772.3657738)
+
+**Yi Zhang**, Lei Sang, Yiwen Zhang.
+Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'24, CCF A**) [[Code](https://github.com/BlueGhostYi/BIGCF)]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS 2024</div><img src='images/EGCF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3701230)
+
+**Yi Zhang**, Yiwen Zhang, Lei Sang, Victor S Sheng.
+ACM Transactions on Information Systems (**TOIS'24, CCF A**) [[Code](https://github.com/BlueGhostYi/ID-GRec/blob/main/models/EGCF.py)]
 </div>
 </div>
 
