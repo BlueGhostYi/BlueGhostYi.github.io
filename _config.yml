@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yi Zhang (张逸)"
   avatar           : "images/profile.png"
-  bio              : "Anhui University"
+  bio              : "zhangyi.ahu@gmail.com"
   location         : "Brisbane, Australia"
-  employer         :
+  employer         : "Anhui University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=user=Mtukj6MAAAAJ&hl=en"
-  email            : "zhangyi.ahu@gmail.com"
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
