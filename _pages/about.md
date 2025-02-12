@@ -28,7 +28,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by ACM the Web conference 2025 (WWW'25) on data augmentation for recommendation.
 - *2024.12*: &nbsp;🎉🎉 We have integrated a graph recommendation framework, [**ID-GRec**](https://github.com/BlueGhostYi/ID-GRec), which has now been released on GitHub. ID-GRec is built on the classic graph recommendation method LightGCN and draws on several related frameworks. Currently, ID-GRec includes over 20 graph recommendation models, all of which have been published in various flagship conferences and journals (e.g., SIGIR, WWW, KDD, TOIS, and TKDE).
 
-# 📝 Publications 
+# 📝 Main Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/MixRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,7 +92,10 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📝 Other Publications 
+
+- [1. Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation](https://arxiv.org/pdf/2407.17234)
+Lei Sang, Yu Wang, **Yi Zhang**, Yiwen Zhang, Xindong Wu. IEEE Transactions on Knowledge and Data Engineering (TKDE'25) **TKDE 2025**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
