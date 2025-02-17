@@ -93,7 +93,7 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 # 📝 Other Publications 
 
 1. [**Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation**](https://arxiv.org/pdf/2407.17234).
-Lei Sang, Yu Wang, **Yi Zhang**, Yiwen Zhang, Xindong Wu. IEEE Transactions on Knowledge and Data Engineering (TKDE'25) **TKDE 2025**
+Lei Sang, Yu Wang, **Yi Zhang**, Yiwen Zhang, Xindong Wu. IEEE Transactions on Knowledge and Data Engineering (TKDE'25)
 
 1. [**Federated Contrastive Learning for Cross-Domain Recommendation**](https://ieeexplore.ieee.org/document/10842506).
 Qingren Wang, Yuchuan Zhao, **Yi Zhang**, Yiwen Zhang, Shuiguang Deng, Yun Yang. IEEE Transactions on Services Computing (TSC'25)
