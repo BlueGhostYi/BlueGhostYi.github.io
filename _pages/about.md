@@ -25,6 +25,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 Three papers are accepted by the ACM ACM SIGIR Conference on Research and Development in Information Retrieval 2025 (SIGIR'25) on large language model and contrastive learning for recommendation.
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by the ACM Web conference 2025 (WWW'25) on data augmentation for recommendation.
 - *2024.12*: &nbsp;🎉🎉 We have integrated a graph recommendation framework, [**ID-GRec**](https://github.com/BlueGhostYi/ID-GRec), which has now been released on GitHub. ID-GRec is built on the classic graph recommendation method LightGCN and draws on several related frameworks. Currently, ID-GRec includes over 20 graph recommendation models, all of which have been published in various flagship conferences and journals (e.g., SIGIR, WWW, KDD, TOIS, and TKDE).
 
