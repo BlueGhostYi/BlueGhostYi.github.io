@@ -93,6 +93,12 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 
 # 📝 Other Publications 
 
+1. [**Intent Representation Learning with Large Language Model for Recommendation**](https://arxiv.org/pdf/2502.03307).
+Yu Wang, Lei Sang, **Yi Zhang**, Yiwen Zhang. Proceedings of the 48th International ACM SIGIR Conference (SIGIR'25)
+
+1. **Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering**.
+Yu Zhang, Yiwen Zhang, **Yi Zhang**, Lei Sang, Yun Yang. Proceedings of the 48th International ACM SIGIR Conference (SIGIR'25)
+
 1. [**Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation**](https://arxiv.org/pdf/2407.17234).
 Lei Sang, Yu Wang, **Yi Zhang**, Yiwen Zhang, Xindong Wu. IEEE Transactions on Knowledge and Data Engineering (TKDE'25)
 
