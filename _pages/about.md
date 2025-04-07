@@ -31,6 +31,16 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/DMRec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Towards Distribution Matching between Collaborative and Language Spaces for Generative Recommendation**
+
+**Yi Zhang**, Yiwen Zhang, Yu Wang, Tong Chen, Hongzhi Yin. 
+Proceedings of the  48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'25, CCF A**)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/MixRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
