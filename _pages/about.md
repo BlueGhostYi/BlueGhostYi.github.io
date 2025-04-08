@@ -87,7 +87,7 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE'24, CCF A**) [[Code]
 [**NIE-GCN: Neighbor Item Embedding-Aware Graph Convolutional Network for Recommendation**](https://ieeexplore.ieee.org/abstract/document/10413999)
  
 **Yi Zhang**, Yiwen Zhang, Dengcheng Yan, Qiang He, Yun Yang. 
-IEEE Transactions on Systems, Man, and Cybernetics: Systems (**TSMC'24, CCF B**) [[Code](https://github.com/BlueGhostYi/NIE-GCN)]
+IEEE Transactions on Systems, Man, and Cybernetics: Systems (**TSMC'24, CCF B，JCR Q1**) [[Code](https://github.com/BlueGhostYi/NIE-GCN)]
 </div>
 </div>
 
