@@ -37,7 +37,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 [**Towards Distribution Matching between Collaborative and Language Spaces for Generative Recommendation**](https://arxiv.org/abs/2504.07363)
 
 **Yi Zhang**, Yiwen Zhang, Yu Wang, Tong Chen, Hongzhi Yin. 
-Proceedings of the  48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'25, CCF A**)
+Proceedings of the  48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'25, CCF A**) [[Code](https://github.com/BlueGhostYi/DMRec)]
 </div>
 </div>
 
