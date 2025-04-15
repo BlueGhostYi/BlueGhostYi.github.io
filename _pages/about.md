@@ -141,7 +141,9 @@ Lei Sang, Yang Hu, **Yi Zhang**, Yiwen Zhang. Applied Intelligence, 2024.
 
 # 🎖 Honors and Awards
 
-🏆China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Anhui University, 2024)
+🏆Second Place Globally in the MMCTR Challenge at The Web Conference 2025 ([Multimodal CTR Prediction Challenge Track](https://erel-mir.github.io/challenge/results/), 2025)
+
+🏆China National Scholarship (Ranked 1st in the School of Computer Science and Technology, Ministry of Education of China, 2024)
 
 🏆First-Class Academic Scholarship (Awarded consecutively from 2020 to 2024, Anhui University)
 
