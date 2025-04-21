@@ -1,4 +1,4 @@
----
+![f3ba1d45273fbc4f2549783c57e84a14](https://github.com/user-attachments/assets/e9c0c39b-5310-49c6-965f-ef21429bb59a)---
 permalink: /
 title: ""
 excerpt: ""
@@ -106,7 +106,7 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 1. [**Intent Representation Learning with Large Language Model for Recommendation**](https://arxiv.org/pdf/2502.03307).
 Yu Wang, Lei Sang, **Yi Zhang**, Yiwen Zhang. Proceedings of the 48th International ACM SIGIR Conference (SIGIR'25)
 
-1. **Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering**.
+1. [**Unveiling Contrastive Learning's Capability of Neighborhood Aggregation for Collaborative Filtering**](https://arxiv.org/pdf/2504.10113).
 Yu Zhang, Yiwen Zhang, **Yi Zhang**, Lei Sang, Yun Yang. Proceedings of the 48th International ACM SIGIR Conference (SIGIR'25)
 
 1. [**Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation**](https://arxiv.org/pdf/2407.17234).
