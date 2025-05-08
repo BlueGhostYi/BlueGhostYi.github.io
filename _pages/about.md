@@ -115,6 +115,9 @@ Lei Sang, Yu Wang, **Yi Zhang**, Yiwen Zhang, Xindong Wu. IEEE Transactions on K
 1. [**Federated Contrastive Learning for Cross-Domain Recommendation**](https://ieeexplore.ieee.org/document/10842506).
 Qingren Wang, Yuchuan Zhao, **Yi Zhang**, Yiwen Zhang, Shuiguang Deng, Yun Yang. IEEE Transactions on Services Computing (TSC'25)
 
+1. [**Generative-Contrastive Heterogeneous Graph Neural Network**](https://arxiv.org/pdf/2404.02810).
+Yu Wang, Lei Sang, **Yi Zhang**, Yiwen Zhang. IEEE Transactions on Big Data (TBD'25)
+
 1. [**Dual-domain Collaborative Denoising for Social Recommendation**](https://arxiv.org/pdf/2405.04942).
 Wenjie Chen, **Yi Zhang**, Honghao Li, Lei Sang, Yiwen Zhang. IEEE Transactions on Computational Social Systems (TCSS'25)
 
