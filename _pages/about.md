@@ -104,6 +104,9 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 
 # 📝 Other Publications 
 
+1. **Revisiting Feature Interactions from the Perspective of Quadratic Neural Networks for Click-through Rate Prediction**.
+Honghao Li, Yiwen Zhang, Yi Zhang, Lei Sang, Jieming Zhu. Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25)
+
 1. [**Intent Representation Learning with Large Language Model for Recommendation**](https://arxiv.org/pdf/2502.03307).
 Yu Wang, Lei Sang, **Yi Zhang**, Yiwen Zhang. Proceedings of the 48th International ACM SIGIR Conference (SIGIR'25)
 
