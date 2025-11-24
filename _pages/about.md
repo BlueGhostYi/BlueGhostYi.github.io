@@ -37,7 +37,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/ProEx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Towards Distribution Matching between Collaborative and Language Spaces for Generative Recommendation**
+**ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation**
 
 **Yi Zhang**, Yiwen Zhang, Yu Wang, Tong Chen, Hongzhi Yin. 
 The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD'26, CCF A**)
