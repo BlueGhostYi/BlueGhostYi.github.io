@@ -44,9 +44,6 @@ The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD'26, CCF
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/MixRec.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/DMRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
