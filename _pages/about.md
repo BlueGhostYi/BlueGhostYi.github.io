@@ -25,7 +25,7 @@ I am currently a second-year Ph.D. student in the School of Computer Science and
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Two papers are accepted by the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26) on LLM-based profile modeling for RecSys and simple yet effective cross network for CTR prediction.
+- *2025.11*: &nbsp;🔥🔥 Two papers are accepted by the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26) on LLM-based profile modeling for RecSys and simple yet effective cross network for CTR prediction.
 - *2025.11*: &nbsp;🎉🎉 One co-authored paper focusing on alignment and uniformity for RecSys is accepted by the Fortieth AAAI Conference on Artificial Intelligence (AAAI'26).
 - *2025.05*: &nbsp;🎉🎉 One co-authored paper focusing on quadratic neural networks for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25).
 - *2025.04*: &nbsp;🎉🎉 Three papers are accepted by the ACM SIGIR Conference on Research and Development in Information Retrieval 2025 (SIGIR'25) on large language model and contrastive learning for recommendation.
