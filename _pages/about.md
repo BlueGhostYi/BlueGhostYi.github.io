@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. student in the School of Computer Science and Technology at Anhui University, under the supervision of Professor Yiwen Zhang. Additionally, I am undertaking a one-year visiting research program at the University of Queensland, under the guidance of Professor Hongzhi Yin, from November 2024 to November 2025. I received my Bachelor's and Master's degrees in Computer Science and Technology from Anhui University in 2020 and 2023, respectively. I have been invited to serve as reviewer for IEEE TKDE, IEEE TSMC, IEEE TII, ACM TOIS, ACM TKDD, and Neural Network journals. My research interests primarily focus on graph recommender systems, social recommendation, and generative recommendation:
+I am currently a final-year Ph.D. student in the School of Computer Science and Technology at Anhui University, under the supervision of Professor [Yiwen Zhang](https://bigdata.ahu.edu.cn/). Additionally, I am undertaking a one-year visiting research program at the University of Queensland, under the guidance of Professor [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home), from November 2024 to November 2025. I received my Bachelor's and Master's degrees in Computer Science and Technology from Anhui University in 2020 and 2023, respectively. I have been invited to serve as reviewer for IEEE TKDE, IEEE TSMC, IEEE TII, IEEE TCSS, ACM TOIS, ACM TKDD, Knowledge-Based Systems and Neural Network journals. My research interests primarily focus on graph recommender systems and generative recommendation:
 
 1. **Graph Recommendation**: Graph recommender systems leverage graph structures to enhance recommendation quality. Users, items, and other entities are represented as nodes, while their relationships, such as interactions, similarities, or social connections, form edges in the graph. Graph neural networks (such as graph convolutional networks) are widely applied in graph recommendation to obtain high-quality embeddings for users and items.
-2. **Social Recommendation**: Social recommendation is an important branch of graph recommender systems. It builds upon interaction relationships by introducing social networks to additionally consider the social connections between users. Social recommender systems leverage the principles of social homophily and social influence to enhance collaborative filtering.
-3.  **Generative recommendation**: Generative recommender system utilizes generative models to produce personalized recommendation. Unlike traditional recommendation methods that rely heavily on user-item interaction data, generative recommendation models aim to learn the underlying data distribution and generate new content or recommendations directly.
+2.  **Generative recommendation**: Generative recommender system utilizes generative models to produce personalized recommendation. Unlike traditional recommendation methods that rely heavily on user-item interaction data, generative recommendation models aim to learn the underlying data distribution and generate new content or recommendations directly.
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🔥🔥 Two papers are accepted by the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26) on LLM-based profile modeling for RecSys and simple yet effective cross network for CTR prediction.
+- *2025.11*: &nbsp;🔥🔥 **Two papers are accepted by the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26) on LLM-based profile modeling for RecSys and simple yet effective cross network for CTR prediction.**
 - *2025.11*: &nbsp;🎉🎉 One co-authored paper focusing on alignment and uniformity for RecSys is accepted by the Fortieth AAAI Conference on Artificial Intelligence (AAAI'26).
 - *2025.05*: &nbsp;🎉🎉 One co-authored paper focusing on quadratic neural networks for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25).
 - *2025.04*: &nbsp;🎉🎉 Three papers are accepted by the ACM SIGIR Conference on Research and Development in Information Retrieval 2025 (SIGIR'25) on large language model and contrastive learning for recommendation.
@@ -115,6 +114,11 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 </div>
 
 # 📝 Other Publications 
+1. [**FCN: Fusing Exponential and Linear Cross Network for Click-Through Rate Prediction**](https://arxiv.org/pdf/2407.13349).
+Honghao Li, Yiwen Zhang, **Yi Zhang**, Hanwei Li, Lei Sang, Jieming Zhu. The 32nd SIGKDD Conference on Knowledge Discovery and Data Minin (KDD'26)
+
+1. [**CAFU: Constrained Alignment and Filtered Uniformity for Denoising Recommendation**]().
+Xinzhe Jiang, Lei Sang, **Yi Zhang**, Kaibin Wang, Yiwen Zhang . The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26)
 
 1. [**Revisiting Feature Interactions from the Perspective of Quadratic Neural Networks for Click-through Rate Prediction**](https://arxiv.org/pdf/2505.17999).
 Honghao Li, Yiwen Zhang, **Yi Zhang**, Lei Sang, Jieming Zhu. Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25)
