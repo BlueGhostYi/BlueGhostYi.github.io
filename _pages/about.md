@@ -37,10 +37,10 @@ I am currently a final-year Ph.D. student in the School of Computer Science and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/ProEx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation**
+[**ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation**](https://arxiv.org/abs/2512.00679)
 
 **Yi Zhang**, Yiwen Zhang, Yu Wang, Tong Chen, Hongzhi Yin. 
-The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD'26, CCF A**)
+The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD'26, CCF A**) [[Code](https://github.com/BlueGhostYi/ProRec)]
 </div>
 </div>
 
