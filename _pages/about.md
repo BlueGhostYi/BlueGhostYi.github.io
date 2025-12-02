@@ -117,7 +117,7 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 1. [**FCN: Fusing Exponential and Linear Cross Network for Click-Through Rate Prediction**](https://arxiv.org/pdf/2407.13349).
 Honghao Li, Yiwen Zhang, **Yi Zhang**, Hanwei Li, Lei Sang, Jieming Zhu. The 32nd SIGKDD Conference on Knowledge Discovery and Data Minin (KDD'26)
 
-1. [**CAFU: Constrained Alignment and Filtered Uniformity for Denoising Recommendation**]().
+1. **CAFU: Constrained Alignment and Filtered Uniformity for Denoising Recommendation**.
 Xinzhe Jiang, Lei Sang, **Yi Zhang**, Kaibin Wang, Yiwen Zhang . The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26)
 
 1. [**Revisiting Feature Interactions from the Perspective of Quadratic Neural Networks for Click-through Rate Prediction**](https://arxiv.org/pdf/2505.17999).
