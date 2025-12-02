@@ -138,6 +138,9 @@ Qingren Wang, Yuchuan Zhao, **Yi Zhang**, Yiwen Zhang, Shuiguang Deng, Yun Yang.
 1. [**Generative-Contrastive Heterogeneous Graph Neural Network**](https://arxiv.org/pdf/2404.02810).
 Yu Wang, Lei Sang, **Yi Zhang**, Yiwen Zhang. IEEE Transactions on Big Data (TBD'25)
 
+1. [**Graph Diffusion Social Recommendation**](https://ieeexplore.ieee.org/document/11099088).
+Jinglong Gao, **Yi Zhang**, Yiwen Zhang. IEEE Transactions on Big Data (TBD'25)
+
 1. [**Dual-domain Collaborative Denoising for Social Recommendation**](https://arxiv.org/pdf/2405.04942).
 Wenjie Chen, **Yi Zhang**, Honghao Li, Lei Sang, Yiwen Zhang. IEEE Transactions on Computational Social Systems (TCSS'25)
 
