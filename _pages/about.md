@@ -35,6 +35,16 @@ I am currently a final-year Ph.D. student in the School of Computer Science and 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/ProRec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems**
+
+**Yi Zhang**, Yiwen Zhang, Kai Zheng, Tong Chen, Hongzhi Yin. 
+The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'26, CCF A**)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/ProEx.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
