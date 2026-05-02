@@ -126,7 +126,7 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 </div>
 
 # 📝 Other Publications 
-1. 1. [**Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation**](https://arxiv.org/abs/2511.18740).
+1. [**Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation**](https://arxiv.org/abs/2511.18740).
 Yu Wang, Yonghui Yang, Le Wu, **Yi Zhang**, Fei Liu, Richang Hong. The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26)
 
 1. [**DIAURec: Dual-Intent Space Representation Optimization for Recommendation**](https://arxiv.org/abs/2604.09087).
