@@ -126,8 +126,14 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 </div>
 
 # 📝 Other Publications 
+1. 1. [**Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation**](https://arxiv.org/abs/2511.18740).
+Yu Wang, Yonghui Yang, Le Wu, **Yi Zhang**, Fei Liu, Richang Hong. The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26)
+
+1. [**DIAURec: Dual-Intent Space Representation Optimization for Recommendation**](https://arxiv.org/abs/2604.09087).
+Yu Zhang, Yiwen Zhang, **Yi Zhang**, Lei Sang. The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26)
+
 1. [**FCN: Fusing Exponential and Linear Cross Network for Click-Through Rate Prediction**](https://arxiv.org/pdf/2407.13349).
-Honghao Li, Yiwen Zhang, **Yi Zhang**, Hanwei Li, Lei Sang, Jieming Zhu. The 32nd SIGKDD Conference on Knowledge Discovery and Data Minin (KDD'26)
+Honghao Li, Yiwen Zhang, **Yi Zhang**, Hanwei Li, Lei Sang, Jieming Zhu. The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26)
 
 1. [**CAFU: Constrained Alignment and Filtered Uniformity for Denoising Recommendation**](https://ojs.aaai.org/index.php/AAAI/article/view/38517).
 Xinzhe Jiang, Lei Sang, **Yi Zhang**, Kaibin Wang, Yiwen Zhang . The Fortieth AAAI Conference on Artificial Intelligence (AAAI'26)
