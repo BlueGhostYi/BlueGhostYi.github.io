@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. student in the School of Computer Science and Technology at Anhui University, under the supervision of Professor [Yiwen Zhang](https://bigdata.ahu.edu.cn/). Additionally, I am undertaking a one-year visiting research program at the University of Queensland, under the guidance of Professor [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home), from November 2024 to November 2025. I received my Bachelor's and Master's degrees in Computer Science and Technology from Anhui University in 2020 and 2023, respectively. I have been invited to serve as reviewer for IEEE TKDE, IEEE TSMC, IEEE TII, IEEE TCSS, ACM TOIS, ACM TKDD, Knowledge-Based Systems and Neural Network journals. My research interests primarily focus on graph recommender systems and generative recommendation:
+I am currently a final-year Ph.D. student in the School of Computer Science and Technology at Anhui University, under the supervision of Professor [Yiwen Zhang](https://bigdata.ahu.edu.cn/). Additionally, I completed a one-year Ph.D. visiting research program at the University of Queensland under the guidance of Professor [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home), from November 2024 to November 2025. I received my Bachelor's and Master's degrees in Computer Science and Technology from Anhui University in 2020 and 2023, respectively. I have been invited to serve as reviewer for IEEE TKDE, IEEE TSMC, IEEE TII, IEEE TCSS, ACM TOIS, ACM TKDD, Knowledge-Based Systems, and Neural Network journals. My research interests primarily focus on graph recommender systems and generative recommendation:
 
 1. **Graph Recommendation**: Graph recommender systems leverage graph structures to enhance recommendation quality. Users, items, and other entities are represented as nodes, while their relationships, such as interactions, similarities, or social connections, form edges in the graph. Graph neural networks (such as graph convolutional networks) are widely applied in graph recommendation to obtain high-quality embeddings for users and items.
 2.  **Generative recommendation**: Generative recommender system utilizes generative models to produce personalized recommendation. Unlike traditional recommendation methods that rely heavily on user-item interaction data, generative recommendation models aim to learn the underlying data distribution and generate new content or recommendations directly.
@@ -38,10 +38,10 @@ I am currently a final-year Ph.D. student in the School of Computer Science and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/ProRec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems**
+[**ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems**](https://arxiv.org/abs/2604.26231)
 
 **Yi Zhang**, Yiwen Zhang, Kai Zheng, Tong Chen, Hongzhi Yin. 
-The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'26, CCF A**)
+The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR'26, CCF A**)[[Code](https://github.com/BlueGhostYi/ProRec)]
 </div>
 </div>
 
