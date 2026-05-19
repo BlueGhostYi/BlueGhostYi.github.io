@@ -126,6 +126,9 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 </div>
 
 # 📝 Other Publications 
+1. **ReAU: A Global-to-Local Perspective for Refining Alignment and Uniformity in Collaborative Filtering**.
+Yu Zhang, Yi Zhang, Yiwen Zhang. The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26).
+
 1. [**Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation**](https://arxiv.org/abs/2511.18740).
 Yu Wang, Yonghui Yang, Le Wu, **Yi Zhang**, Fei Liu, Richang Hong. The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26)
 
