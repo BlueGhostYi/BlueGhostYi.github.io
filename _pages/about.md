@@ -17,16 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year Ph.D. student in the School of Computer Science and Technology at Anhui University, under the supervision of Professor [Yiwen Zhang](https://bigdata.ahu.edu.cn/). Additionally, I completed a one-year Ph.D. visiting research program at the University of Queensland under the guidance of Professor [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home), from November 2024 to November 2025. I received my Bachelor's and Master's degrees in Computer Science and Technology from Anhui University in 2020 and 2023, respectively. I have been invited to serve as reviewer for IEEE TKDE, IEEE TSMC, IEEE TII, IEEE TCSS, ACM TOIS, ACM TKDD, Knowledge-Based Systems, and Neural Network journals. My research interests primarily focus on graph recommender systems and generative recommendation:
-
-1. **Graph Recommendation**: Graph recommender systems leverage graph structures to enhance recommendation quality. Users, items, and other entities are represented as nodes, while their relationships, such as interactions, similarities, or social connections, form edges in the graph. Graph neural networks (such as graph convolutional networks) are widely applied in graph recommendation to obtain high-quality embeddings for users and items.
-2.  **Generative recommendation**: Generative recommender system utilizes generative models to produce personalized recommendation. Unlike traditional recommendation methods that rely heavily on user-item interaction data, generative recommendation models aim to learn the underlying data distribution and generate new content or recommendations directly.
+I am currently a Postdoctoral Fellow in the Department of Data Science at City University of Hong Kong, under the supervision of Associate Professor [Yang Yu](https://yuyangcs.github.io/). I received my M.S. and Ph.D. degrees in Computer Science and Technology from the School of Computer Science and Technology, Anhui University, in 2023 and 2026, respectively, under the supervision of Professor Yiwen Zhang[Yiwen Zhang](https://bigdata.ahu.edu.cn/). Additionally, I completed a one-year Ph.D. visiting research program at the University of Queensland from November 2024 to November 2025, under the guidance of Professor Hongzhi Yin[Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and Associate Professor [Rocky Chen](https://about.uq.edu.au/experts/27868). I have been invited to serve as reviewer for IEEE TKDE, IEEE TSMC, IEEE TII, IEEE TCSS, ACM TOIS, ACM TKDD, Knowledge-Based Systems, and Neural Network journals. My research interests primarily focus on graph recommendation, generative recommendation and LLM-based recommendation.
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🔥🔥 **Three papers are accepted by the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26).**
-- *2026.04*: &nbsp;🔥🔥 **Three papers are accepted by the ACM SIGIR Conference on Research and Development in Information Retrieval 2026 (SIGIR'26) on large language model for recommendation.**
-- *2026.01*: &nbsp;🔥🔥 Our workshop proposal, “[LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation](https://sigir-llmup.github.io/SIGIR26-LLMUP/),” has been accepted at SIGIR 2026.
+- *2026.11*: &nbsp;🔥🔥 **One co-authored paper focusing on unified ranking benchmark for CTR prediction is accepted by the 33rd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'27).**
+- *2026.05*: &nbsp;🎉🎉 Three papers are accepted by the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26).
+- *2026.04*: &nbsp;🎉🎉 Three papers are accepted by the ACM SIGIR Conference on Research and Development in Information Retrieval 2026 (SIGIR'26) on large language model for recommendation.
+- *2026.01*: &nbsp;🎉🎉 Our workshop proposal, “[LLM-UP: SIGIR 2026 Workshop on LLM-powered User Profiling for Search and Recommendation](https://sigir-llmup.github.io/SIGIR26-LLMUP/),” has been accepted at SIGIR 2026.
 - *2025.11*: &nbsp;🎉🎉 One co-authored paper focusing on alignment and uniformity for RecSys is accepted by the Fortieth AAAI Conference on Artificial Intelligence (AAAI'26).
 - *2025.05*: &nbsp;🎉🎉 One co-authored paper focusing on quadratic neural networks for CTR prediction is accepted by the SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25).
 - *2025.04*: &nbsp;🎉🎉 Three papers are accepted by the ACM SIGIR Conference on Research and Development in Information Retrieval 2025 (SIGIR'25) on large language model and contrastive learning for recommendation.
@@ -126,8 +124,11 @@ ACM Transactions on Information Systems (**TOIS'23, CCF A**) [[Code](https://git
 </div>
 
 # 📝 Other Publications 
-1. **ReAU: A Global-to-Local Perspective for Refining Alignment and Uniformity in Collaborative Filtering**.
-Yu Zhang, Yi Zhang, Yiwen Zhang. The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26).
+1. [**UniRank: Benchmarking Ranking Models for Unified Sequential Modeling and Feature Interaction**](https://arxiv.org/pdf/2607.19987).
+Honghao Li, Xianquan Wang, Zibin Zhang, Kangyi Lin, **Yi Zhang**, Yiwen Zhang. The 33rd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'27).
+
+1. [**ReAU: A Global-to-Local Perspective for Refining Alignment and Uniformity in Collaborative Filtering**](https://dl.acm.org/doi/pdf/10.1145/3770855.3817818).
+Yu Zhang, **Yi Zhang**, Yiwen Zhang. The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26).
 
 1. [**Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation**](https://arxiv.org/abs/2511.18740).
 Yu Wang, Yonghui Yang, Le Wu, **Yi Zhang**, Fei Liu, Richang Hong. The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'26)
